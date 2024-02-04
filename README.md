@@ -3,3 +3,4 @@ Data-driven applications depend on remote queries that run through APIs. GraphQL
 Steps 
 npm install
 npm start
+![Screen Shot 2024-02-03 at 10 03 33 PM](https://github.com/ponnuru/apollographql/assets/5709757/c90800ed-dbf4-4bee-97d7-accc92154aa7)
